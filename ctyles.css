@@ -1,0 +1,62 @@
+.slider-img {
+  width: 100%;
+  height: auto;
+}
+
+.navbar {
+  background-color: #333;
+}
+
+.navbar .navbar-brand {
+  color: #f9f7cc;
+}
+.navbar .navbar-brand:hover {
+  color: #fff;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #faf9e2;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+.navbar .navbar-toggler {
+  border-color: #fff;
+}
+
+.navbar .navbar-toggler-icon::before {
+  content: '\2630';
+  color: #fff;
+  font-size: 1.4em;
+}
+
+.accordion-button {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.accordion-button:hover {
+  background-color: #e2e6ea;
+  color: #000;
+}
+
+.form-label {
+  color: #495057;
+}
+
+.form-control {
+  border-color: #ced4da;
+}
+
+.form-control:focus {
+  border-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+}
