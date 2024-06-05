@@ -1,1 +1,1 @@
-# Bootstrap simple website.
+# A simple Bootstrap website.
